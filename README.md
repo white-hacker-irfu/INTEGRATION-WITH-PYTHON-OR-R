@@ -55,5 +55,5 @@ After running the Python script, we made adjustments to improve readability:
 ### **6️⃣ Saving and Publishing the Report**  
 Once the visualizations were optimized, we **saved** the report as `Sales_Analysis_Report.pbix`. We also explored the option of **publishing the report to Power BI Service** for sharing.  
 
-#OUTPUT PICTURE 
+###OUTPUT PICTURE 
 ![Image](https://github.com/user-attachments/assets/04f1105e-e775-4440-8d32-357357dc38bd)
