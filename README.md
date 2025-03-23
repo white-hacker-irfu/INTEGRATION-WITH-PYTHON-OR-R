@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTHOSH KUMAR
 
-## # **Task 4: Integration of Python in Power BI for Advanced Data Analysis and Visualization**  
+### **Task 4: Integration of Python in Power BI for Advanced Data Analysis and Visualization**  
 
 In **Task 4** of our Power BI internship at **CodTech**, we successfully integrated **Python scripts** within Power BI to perform **advanced data analysis and visualization**. This task required us to use Python to process and visualize sales data, making the report more interactive and insightful. We leveraged **Python's data manipulation and visualization libraries** such as **pandas, matplotlib, and seaborn** to generate meaningful insights.  
 
@@ -54,13 +54,6 @@ After running the Python script, we made adjustments to improve readability:
 
 ### **6️⃣ Saving and Publishing the Report**  
 Once the visualizations were optimized, we **saved** the report as `Sales_Analysis_Report.pbix`. We also explored the option of **publishing the report to Power BI Service** for sharing.  
-
----
-
-## **📌 Final Outcome**  
-By successfully integrating Python into Power BI, we created a **dynamic and insightful sales report** with **advanced visualizations**. This approach provided more flexibility and customization than Power BI’s built-in charts. The **Python-powered visualizations** allowed us to analyze sales trends effectively, making the report highly valuable for decision-making.  
-
-📌 **Word Count: 530** 🚀
 
 #OUTPUT PICTURE 
 ![Image](https://github.com/user-attachments/assets/04f1105e-e775-4440-8d32-357357dc38bd)
